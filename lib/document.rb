@@ -18,7 +18,7 @@ class Document
 
   def prompt
     print "Enter a search term -> "
-    id = STDIN.gets
+    id = STDIN.gets.chomp
     get_title(id)
   end
 
@@ -31,7 +31,6 @@ class Document
     Authorise.oapi_authorise("342b2d16ace018fd41026b61097d886804c1b954d", "92bf7f623d88c5816f888f274aad448e", "http://staging.mendeley.com")
     m = Mendeley.new
     res = m.document_search(id.to_s)
-    #res = m.document_details(id)
     first_item = JSON.parse(res.body)
     docs =  first_item["documents"]
     doc = docs[0]

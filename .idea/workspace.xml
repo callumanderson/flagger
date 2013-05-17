@@ -6,7 +6,7 @@
     <ignored path=".idea/workspace.xml" />
     <file path="/printer.rb" changelist="4240c554-f88d-49a0-a08e-bf96f9eefc5e" time="1368800947721" ignored="false" />
     <file path="/Runner.rb" changelist="4240c554-f88d-49a0-a08e-bf96f9eefc5e" time="1368805428272" ignored="false" />
-    <file path="/document.rb" changelist="4240c554-f88d-49a0-a08e-bf96f9eefc5e" time="1368806454160" ignored="false" />
+    <file path="/document.rb" changelist="4240c554-f88d-49a0-a08e-bf96f9eefc5e" time="1368806568123" ignored="false" />
     <file path="$PROJECT_DIR$/../qa-tools/cucumber/features/step_definitions/my_library_steps.rb" changelist="4240c554-f88d-49a0-a08e-bf96f9eefc5e" time="1368797026941" ignored="false" />
     <file path="$PROJECT_DIR$/../qa-tools/cucumber/lib/Library_helper.rb" changelist="4240c554-f88d-49a0-a08e-bf96f9eefc5e" time="1368797026941" ignored="false" />
     <file path="/mendeley.rb" changelist="4240c554-f88d-49a0-a08e-bf96f9eefc5e" time="1368797383512" ignored="false" />
@@ -34,7 +34,7 @@
       <file leaf-file-name="document.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/document.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="33" selection-start="999" selection-end="999" vertical-scroll-proportion="0.7911833">
+            <state line="20" column="26" selection-start="524" selection-end="524" vertical-scroll-proportion="0.46403712">
               <folding />
             </state>
           </provider>
@@ -484,7 +484,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/document.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="33" selection-start="999" selection-end="999" vertical-scroll-proportion="0.7911833">
+        <state line="20" column="26" selection-start="524" selection-end="524" vertical-scroll-proportion="0.46403712">
           <folding />
         </state>
       </provider>
