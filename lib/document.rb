@@ -28,9 +28,9 @@ class Document
   end
 
   def get_doc_from_mendeley(id)
-    Authorise.oapi_authorise("342b2d16ace018fd41026b61097d886804c1b954d", "92bf7f623d88c5816f888f274aad448e", "http://api.mendeley.com")
+    Authorise.oapi_authorise("342b2d16ace018fd41026b61097d886804c1b954d", "92bf7f623d88c5816f888f274aad448e", "http://staging.mendeley.com")
     m = Mendeley.new
-    res = m.document_search(id)
+    res = m.document_search(id.to_s)
     #res = m.document_details(id)
     first_item = JSON.parse(res.body)
     docs =  first_item["documents"]

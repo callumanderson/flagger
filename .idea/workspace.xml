@@ -6,7 +6,7 @@
     <ignored path=".idea/workspace.xml" />
     <file path="/printer.rb" changelist="4240c554-f88d-49a0-a08e-bf96f9eefc5e" time="1368800947721" ignored="false" />
     <file path="/Runner.rb" changelist="4240c554-f88d-49a0-a08e-bf96f9eefc5e" time="1368805428272" ignored="false" />
-    <file path="/document.rb" changelist="4240c554-f88d-49a0-a08e-bf96f9eefc5e" time="1368806241484" ignored="false" />
+    <file path="/document.rb" changelist="4240c554-f88d-49a0-a08e-bf96f9eefc5e" time="1368806454160" ignored="false" />
     <file path="$PROJECT_DIR$/../qa-tools/cucumber/features/step_definitions/my_library_steps.rb" changelist="4240c554-f88d-49a0-a08e-bf96f9eefc5e" time="1368797026941" ignored="false" />
     <file path="$PROJECT_DIR$/../qa-tools/cucumber/lib/Library_helper.rb" changelist="4240c554-f88d-49a0-a08e-bf96f9eefc5e" time="1368797026941" ignored="false" />
     <file path="/mendeley.rb" changelist="4240c554-f88d-49a0-a08e-bf96f9eefc5e" time="1368797383512" ignored="false" />
@@ -34,7 +34,7 @@
       <file leaf-file-name="document.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/document.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="34" column="119" selection-start="912" selection-end="912" vertical-scroll-proportion="0.7215777">
+            <state line="37" column="33" selection-start="999" selection-end="999" vertical-scroll-proportion="0.7911833">
               <folding />
             </state>
           </provider>
@@ -58,6 +58,15 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="run_me.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/run_me.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="30" selection-start="437" selection-end="437" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="printer.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/printer.rb">
           <provider selected="true" editor-type-id="text-editor">
@@ -70,7 +79,7 @@
       <file leaf-file-name="runner.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/runner.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="12" selection-start="120" selection-end="120" vertical-scroll-proportion="0.0">
+            <state line="5" column="11" selection-start="119" selection-end="119" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -431,30 +440,9 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lib/run_me.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="223" selection-end="437" vertical-scroll-proportion="0.13921113">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/printer.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="16" column="0" selection-start="478" selection-end="478" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/public_methods.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="21" selection-start="1094" selection-end="1109" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/mendeley.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="10" selection-start="57" selection-end="62" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -466,16 +454,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/lib/public_methods.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="21" selection-start="1094" selection-end="1109" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/run_me.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="30" selection-start="437" selection-end="437" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/mendeley.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="10" selection-start="57" selection-end="62" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lib/runner.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="12" selection-start="120" selection-end="120" vertical-scroll-proportion="0.0">
+        <state line="5" column="11" selection-start="119" selection-end="119" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/document.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="119" selection-start="912" selection-end="912" vertical-scroll-proportion="0.7215777">
+        <state line="37" column="33" selection-start="999" selection-end="999" vertical-scroll-proportion="0.7911833">
           <folding />
         </state>
       </provider>
